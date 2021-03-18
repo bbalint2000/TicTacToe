@@ -1,0 +1,3 @@
+C:/Users/Balint/CLionProjects/NHF/cmake-build-debug/CMakeFiles/NHF.dir
+C:/Users/Balint/CLionProjects/NHF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Balint/CLionProjects/NHF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
